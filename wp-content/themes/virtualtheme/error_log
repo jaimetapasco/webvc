@@ -1,0 +1,4 @@
+[20-Oct-2017 02:49:22 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home2/virtualcweb/public_html/wp-content/themes/virtualtheme/header.php on line 3
+[21-Oct-2017 01:03:43 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home2/virtualcweb/public_html/wp-content/themes/virtualtheme/index.php on line 1
+[10-Feb-2018 13:38:58 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home2/virtualcweb/public_html/wp-content/themes/virtualtheme/header.php on line 3
+[10-Feb-2018 13:39:00 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home2/virtualcweb/public_html/wp-content/themes/virtualtheme/header.php on line 3

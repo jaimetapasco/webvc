@@ -1,0 +1,2 @@
+[26-Nov-2017 00:36:44 America/Chicago] PHP Fatal error:  Call to undefined function __() in /home2/virtualcweb/public_html/wp-admin/user/menu.php on line 10
+[26-Nov-2017 00:42:52 America/Chicago] PHP Fatal error:  Call to undefined function __() in /home2/virtualcweb/public_html/wp-admin/user/menu.php on line 10
